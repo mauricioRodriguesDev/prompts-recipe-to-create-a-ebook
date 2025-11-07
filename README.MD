@@ -20,7 +20,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [PerpleityIA](https://www.perplexity.ai/referrals/Q7MQCR6K) 
+- [PerplexityIA](https://www.perplexity.ai/referrals/Q7MQCR6K) 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -48,7 +48,7 @@ PerpleityIA：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado de acordo com as instruções das aulas em`output`
 
 ## 🛠️ Instruções de execução
 
@@ -68,7 +68,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/mauricioRodriguesDev">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/mauriciorodrigues-exe/">LinkedIn</a>
-&nbsp;|&nbsp;
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
