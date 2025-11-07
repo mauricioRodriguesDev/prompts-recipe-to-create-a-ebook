@@ -29,31 +29,30 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [PerpleityIA](https://www.perplexity.ai/referrals/Q7MQCR6K) 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+PerpleityIA：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um titulo para um ebook sobre o tema linguagem JAVA, um ebook do nicho de programação e o subnicho linguagem JAVA, o titulo deve ser impactante e curto, e tenha uma temática mais nerd, tenha uma temática futurista e cyberpunk. Me liste 5 variações de títulos.                                                        |
+| conteúdo | Como base nesse tema, faça um texto para o ebook, como foco em JAVA e POO, listando os principais pilares  em Java com exemplos em código.
+{REGRAS} Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de codigo em contextos reais, sempre deixe um titulo sugestivo por topico.
 
-
-Midjourney：
+PerpleityIA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Futuristic cyberpunk  with a black background, cascading green code inspired by The Matrix, a neon green Java logo (coffee cup with steam), digital glitch effects, strong light contrast |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo e imagem gerados via PerplexityIA
+
 
 ## 📚 Materiais
 
@@ -71,22 +70,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/239199216?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/mauricioRodriguesDev">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/mauriciorodrigues-exe/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
