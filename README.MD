@@ -1,13 +1,4 @@
-p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
 
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
 
 
 <p align="center">
@@ -41,7 +32,7 @@ PerpleityIA：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo para um ebook sobre o tema linguagem JAVA, um ebook do nicho de programação e o subnicho linguagem JAVA, o titulo deve ser impactante e curto, e tenha uma temática mais nerd, tenha uma temática futurista e cyberpunk. Me liste 5 variações de títulos.                                                        |
 | conteúdo | Como base nesse tema, faça um texto para o ebook, como foco em JAVA e POO, listando os principais pilares  em Java com exemplos em código.
-{REGRAS} Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de codigo em contextos reais, sempre deixe um titulo sugestivo por topico.
+REGRAS: Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de codigo em contextos reais, sempre deixe um titulo sugestivo por topico.
 
 PerpleityIA：
 
